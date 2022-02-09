@@ -49,6 +49,39 @@ Data Analyst Projects Portfolio
 
 ![image](https://user-images.githubusercontent.com/76533174/153234223-0f34616a-2abc-4c8e-a408-9da0b3fffabc.png)
 
+# [Project: Clustering Observations -  Test & Control Market Selection] - Using Minitab 18, jmp, and Excel.  
+
+**DESCRIPTION:
+  * We will identify cities that can serve as a test and control of market pairs, for example, in an experiment.
+  * We have 20 candidate markets that this company has a presence in.
+  * The best practice to conduct some tests or experiments, and it is an excellent principle to conduct experiments to define one market as a test market in the sense that he will get some treatment or some marketing incentives.
+  * Then, choose another market as a control market similar to the test market with different characteristics, so that when the results come from tests or experiment, it is a little easier to attribute the effect or impact of what the test market receives compared to what the control market receives.
+  * We have 20 candidate markets, and we have nine variables measured across these 20 markets.
+![image](https://user-images.githubusercontent.com/76533174/153237279-5fad15e6-6d9a-4cde-8035-1a5c27e8a233.png)
+**OBJECTIVES:
+
+
+**STRATEGIES:
+ * Examine the relationships (correlation) between the variables.
+ * Perform a Cluster Observations Analysis (Hierarchical Clustering Algorithm).
+ * Cluster Analysis of ObservationsThe table of Amalgamation Steps.
+ * Cluster Analysis of ObservationsThe table of Final Partition.
+ * Cluster Analysis of ObservationsThe table of Cluster Centroids.
+ * Examine the Cluster Solution across the nine variables via Scatter Plots.
+**Primary Analysis:
+![image](https://user-images.githubusercontent.com/76533174/153238065-551f3250-82f8-455e-a394-aa3135837ce7.png)
+![image](https://user-images.githubusercontent.com/76533174/153243635-45c26665-6162-4138-b2fe-516d832001db.png)
+![image](https://user-images.githubusercontent.com/76533174/153243660-7b8a9140-152d-42f6-becd-d2812fcd1663.png)
+![image](https://user-images.githubusercontent.com/76533174/153244355-8114f0bb-bb90-43fe-a9f4-77d84df553d1.png)
+![image](https://user-images.githubusercontent.com/76533174/153244655-8b2af29f-7066-4e45-ab97-3c90c7dc1171.png)
+**Conclusions and Recommendations:
+![image](https://user-images.githubusercontent.com/76533174/153244683-89b1c911-81a2-47ec-9cc8-bf629e210cdd.png)
+
+
+
+
+
+
 
 
 
