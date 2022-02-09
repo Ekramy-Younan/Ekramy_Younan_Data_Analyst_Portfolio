@@ -74,15 +74,16 @@ Data Analyst Projects Portfolio
  * Examine the Cluster Solution across the nine variables via Scatter Plots.
 
 **Primary Analysis:
-![image](https://user-images.githubusercontent.com/76533174/153238065-551f3250-82f8-455e-a394-aa3135837ce7.png)
-![image](https://user-images.githubusercontent.com/76533174/153243635-45c26665-6162-4138-b2fe-516d832001db.png)
-![image](https://user-images.githubusercontent.com/76533174/153243660-7b8a9140-152d-42f6-becd-d2812fcd1663.png)
-![image](https://user-images.githubusercontent.com/76533174/153244355-8114f0bb-bb90-43fe-a9f4-77d84df553d1.png)
-![image](https://user-images.githubusercontent.com/76533174/153244655-8b2af29f-7066-4e45-ab97-3c90c7dc1171.png)
+
+ * ![image](https://user-images.githubusercontent.com/76533174/153238065-551f3250-82f8-455e-a394-aa3135837ce7.png)
+ * ![image](https://user-images.githubusercontent.com/76533174/153243635-45c26665-6162-4138-b2fe-516d832001db.png)
+ * ![image](https://user-images.githubusercontent.com/76533174/153243660-7b8a9140-152d-42f6-becd-d2812fcd1663.png)
+ * ![image](https://user-images.githubusercontent.com/76533174/153244355-8114f0bb-bb90-43fe-a9f4-77d84df553d1.png)
+ * ![image](https://user-images.githubusercontent.com/76533174/153244655-8b2af29f-7066-4e45-ab97-3c90c7dc1171.png)
 
 **Conclusions and Recommendations:
 
-![image](https://user-images.githubusercontent.com/76533174/153244683-89b1c911-81a2-47ec-9cc8-bf629e210cdd.png)
+ * ![image](https://user-images.githubusercontent.com/76533174/153244683-89b1c911-81a2-47ec-9cc8-bf629e210cdd.png)
 
 # [Project: Variables Reduction - Wine QUALITY ] - Using Minitab 18, jmp, and Excel.  
 
