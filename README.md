@@ -116,31 +116,80 @@ Data Analyst Projects Portfolio
  * ![image](https://user-images.githubusercontent.com/76533174/153267493-acfff333-6c3e-4d75-a960-acd1eedfb142.png)
  * ![image](https://user-images.githubusercontent.com/76533174/153267522-729b011c-0986-4bc8-9026-dfc113a1c0a7.png)
 
-# [Project: ] - Using Minitab 18, jmp, and Excel.  
+# [Project: Statistical Inference-ONLINE MORTGAGE APPLICATION_DATA] - Using Minitab 18, jmp, and Excel.  
 
 **DESCRIPTION:
 
+ * We estimated characteristics of the population of applications based upon a sample of applicants completing a new prototype of an online application process. 
+ * After further exploration of the applicants using the test, it was identified that they differed in their level of knowledge / experience.
+ * Regarding financing concepts, experience in mortgage-like applications, and a thorough knowledge of their family's financial details.
+ * As a result, each applicant was rated as having a low level of knowledge / experience, medium or high.
+ * Estimation across confidence intervals the average completion time of a set of requests from each of the three types of experience (low, medium, and high).
+ * Some elements of uncertainty in the findings and conclusions.
+ * ![image](https://user-images.githubusercontent.com/76533174/153271860-7701057a-184c-4243-a54c-66b4b083efa7.png)
+
 **OBJECTIVES:
+  * An estimated comparison with the average historical completion time of the company's current online application.
 
 **STRATEGIES:
+ * Histogram Graphical Summary.
+ * One-Sample T.
+ * 1 Variance.
+ * Parametric Distribution Analysis. 
 
 **Primary Analysis:
 
+ * ![image](https://user-images.githubusercontent.com/76533174/153276954-2b1cd5da-5437-4d46-b9bc-df1b40c4ee82.png)
+ * ![image](https://user-images.githubusercontent.com/76533174/153277168-c22f1364-f6c6-4c62-abcd-841d3c848acc.png)
+ * ![image](https://user-images.githubusercontent.com/76533174/153277258-d3063c7b-2cc4-484e-9faf-b54531c55b06.png)
+ * ![image](https://user-images.githubusercontent.com/76533174/153277354-b1e433bd-ed5b-4b7e-8caf-91ec19d90fa0.png)
+ * ![image](https://user-images.githubusercontent.com/76533174/153277573-1ef3eeed-3d82-438f-9d12-b662d5c667f3.png)
+ * ![image](https://user-images.githubusercontent.com/76533174/153277602-ad300aef-7fd1-49b6-8812-026c4c3dedaf.png)
+
 **Conclusions and Recommendations:
 
+ * ![image](https://user-images.githubusercontent.com/76533174/153277689-c1a51470-851e-4c65-9c12-457109b096b9.png)
+ * ![image](https://user-images.githubusercontent.com/76533174/153277716-b2d39101-fe24-4018-ae9f-262443602e7b.png)
 
-# [Project: ] - Using Minitab 18, jmp, and Excel.  
+# [Project: Statistical Models - Athletic Performance] - Using Minitab 18, jmp, and Excel.  
 
 **DESCRIPTION:
 
+ * How much of the variation in Time between the 20 athletes is the model with Oxygen Uptake able to account for/explain?
+ * What is the prediction of an athlete’s completion time of a 2-mile run if they have an Oxygen Uptake of 40, 50, and 60? 
+ * Which of these predictions is most/least precise?
+ * Do any of the athletes stand out as a bit unique from the others? 
+ * Any ideas for further analysis to better understand what variables/factors impact an athlete’s speed, and thus expand the models? 
+ * ![image](https://user-images.githubusercontent.com/76533174/153278332-b9f3fe47-b7dc-4883-af75-1673b8779a97.png)
+
 **OBJECTIVES:
 
+ * To describe the relationship between Oxygen Uptake and The Time variables. 
+ * Describe the Expected Time as a function of Oxygen Uptake. 
+
 **STRATEGIES:
+ * Regression Analysis - Analysis of Variance.
+   * Determine whether the association between the response and the term is statistically significant.
+ * Fitted Line Plot – The Graph.
+   * Determine whether the regression line fits the data.
+ * Regression Analysis – The regression equation.
+   * Examine how the term is associated with the response.
+ * Regression Analysis – The Model Summary.
+   * Determine how well the model fits the data.
+ * Residual Plots for Time.
+   * Determine whether your model meets the assumptions of the analysis.
 
 **Primary Analysis:
 
+ * ![image](https://user-images.githubusercontent.com/76533174/153278537-83004525-9519-41af-834b-72d3be5d2f4c.png)
+ * ![image](https://user-images.githubusercontent.com/76533174/153278726-452c68c0-97e4-4138-ba3d-6a7d6620b1f9.png)
+ * ![image](https://user-images.githubusercontent.com/76533174/153279052-9bc2b518-7dd8-48a8-88f9-8e966752296c.png)
+ * ![image](https://user-images.githubusercontent.com/76533174/153279296-851af120-31e0-40e5-a084-84b5b802acb2.png)
+ * ![image](https://user-images.githubusercontent.com/76533174/153279557-4b0bb544-dfe0-419a-8006-1cca1700a1dd.png)
+
 **Conclusions and Recommendations:
 
+ * ![image](https://user-images.githubusercontent.com/76533174/153279704-22d970f0-43bf-416e-89eb-1e8cbc787107.png)
 
 # [Project: ] - Using Minitab 18, jmp, and Excel.  
 
