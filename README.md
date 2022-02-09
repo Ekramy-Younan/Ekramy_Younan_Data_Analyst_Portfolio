@@ -2,7 +2,7 @@
 Data Analyst Projects Portfolio
 
 
-# [Project: Potential Locations for Retirement Housing Community]
+# [Project: Potential Locations for Retirement Housing Community] - Using Minitab 18, jmp, and Excel.  
 
 **DESCRIPTION
   * The top focus for Horizon View Properties is to become the premier retirement housing community in the country and provide the affluent segment of the baby-boomer retirees with an exceptional lifestyle. 
@@ -41,7 +41,13 @@ Data Analyst Projects Portfolio
 
 ![image](https://user-images.githubusercontent.com/76533174/153132513-afd6f60d-bdfd-4194-96fc-866bc857cc3e.png)
 
+![image](https://user-images.githubusercontent.com/76533174/153233909-4973e855-ae6d-4af9-94df-2343fb6462bc.png)
 
+![image](https://user-images.githubusercontent.com/76533174/153233955-fb528cca-ae92-4a50-b4ab-2e396a8fe6ef.png)
+
+![image](https://user-images.githubusercontent.com/76533174/153234144-244937b5-2348-4508-b298-0862e258032a.png)
+
+![image](https://user-images.githubusercontent.com/76533174/153234223-0f34616a-2abc-4c8e-a408-9da0b3fffabc.png)
 
 
 
