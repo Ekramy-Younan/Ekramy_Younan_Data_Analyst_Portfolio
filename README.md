@@ -2,7 +2,7 @@
 Data Analyst Projects Portfolio
 
 
-# [Project: Potential Locations for Retirement Housing Community] - Using Minitab 18, jmp, and Excel.  
+# [Project: Potential Locations for Retirement Housing Community] - Using Minitab 18, jmp, Python, and Excel.  
 
 **DESCRIPTION
   * The top focus for Horizon View Properties is to become the premier retirement housing community in the country and provide the affluent segment of the baby-boomer retirees with an exceptional lifestyle. 
@@ -49,7 +49,7 @@ Data Analyst Projects Portfolio
 
 ![image](https://user-images.githubusercontent.com/76533174/153234223-0f34616a-2abc-4c8e-a408-9da0b3fffabc.png)
 
-# [Project: Clustering Observations -  Test & Control Market Selection] - Using Minitab 18, jmp, and Excel.  
+# [Project: Clustering Observations -  Test & Control Market Selection] - Using Minitab 18, jmp, Python, and Excel.  
 
 **DESCRIPTION:
   
@@ -85,7 +85,7 @@ Data Analyst Projects Portfolio
 
  * ![image](https://user-images.githubusercontent.com/76533174/153244683-89b1c911-81a2-47ec-9cc8-bf629e210cdd.png)
 
-# [Project: Variables Reduction - Wine QUALITY ] - Using Minitab 18, jmp, and Excel.  
+# [Project: Variables Reduction - Wine QUALITY ] - Using Minitab 18, jmp, Python, and Excel.  
 
 **DESCRIPTION:
  * To determine which process that performs the professional work to reduce data dimensions and simplify interpretation while also keeping important information in full data.
@@ -116,7 +116,7 @@ Data Analyst Projects Portfolio
  * ![image](https://user-images.githubusercontent.com/76533174/153267493-acfff333-6c3e-4d75-a960-acd1eedfb142.png)
  * ![image](https://user-images.githubusercontent.com/76533174/153267522-729b011c-0986-4bc8-9026-dfc113a1c0a7.png)
 
-# [Project: Statistical Inference-ONLINE MORTGAGE APPLICATION_DATA] - Using Minitab 18, jmp, and Excel.  
+# [Project: Statistical Inference-ONLINE MORTGAGE APPLICATION_DATA] - Using Minitab 18, jmp, Python, and Excel.
 
 **DESCRIPTION:
 
@@ -151,7 +151,7 @@ Data Analyst Projects Portfolio
  * ![image](https://user-images.githubusercontent.com/76533174/153277689-c1a51470-851e-4c65-9c12-457109b096b9.png)
  * ![image](https://user-images.githubusercontent.com/76533174/153277716-b2d39101-fe24-4018-ae9f-262443602e7b.png)
 
-# [Project: Statistical Models - Athletic Performance] - Using Minitab 18, jmp, and Excel.  
+# [Project: Statistical Models - Athletic Performance] - Using Minitab 18, jmp, Python, and Excel.
 
 **DESCRIPTION:
 
@@ -191,7 +191,7 @@ Data Analyst Projects Portfolio
 
  * ![image](https://user-images.githubusercontent.com/76533174/153279704-22d970f0-43bf-416e-89eb-1e8cbc787107.png)
 
-# [Project: ] - Using Minitab 18, jmp, and Excel.  
+# [Project: ] - Using Minitab 18, jmp, Python, and Excel.
 
 **DESCRIPTION:
 
@@ -204,7 +204,7 @@ Data Analyst Projects Portfolio
 **Conclusions and Recommendations:
 
 
-# [Project: ] - Using Minitab 18, jmp, and Excel.  
+# [Project: ] - Using Minitab 18, jmp, Python, and Excel.
 
 **DESCRIPTION:
 
@@ -217,7 +217,7 @@ Data Analyst Projects Portfolio
 **Conclusions and Recommendations:
 
 
-# [Project: ] - Using Minitab 18, jmp, and Excel.  
+# [Project: ] - Using Minitab 18, jmp, Python, and Excel.  
 
 **DESCRIPTION:
 
@@ -230,7 +230,7 @@ Data Analyst Projects Portfolio
 **Conclusions and Recommendations:
 
 
-# [Project: ] - Using Minitab 18, jmp, and Excel.  
+# [Project: ] - Using Minitab 18, jmp, Python, and Excel.
 
 **DESCRIPTION:
 
@@ -243,7 +243,7 @@ Data Analyst Projects Portfolio
 **Conclusions and Recommendations:
 
 
-# [Project: ] - Using Minitab 18, jmp, and Excel.  
+# [Project: ] - Using Minitab 18, jmp, Python, and Excel.
 
 **DESCRIPTION:
 
@@ -256,7 +256,7 @@ Data Analyst Projects Portfolio
 **Conclusions and Recommendations:
 
 
-# [Project: ] - Using Minitab 18, jmp, and Excel.  
+# [Project: ] - Using Minitab 18, jmp, Python, and Excel.
 
 **DESCRIPTION:
 
@@ -269,7 +269,7 @@ Data Analyst Projects Portfolio
 **Conclusions and Recommendations:
 
 
-# [Project: ] - Using Minitab 18, jmp, and Excel.  
+# [Project: ] - Using Minitab 18, jmp, Python, and Excel.
 
 **DESCRIPTION:
 
@@ -282,7 +282,7 @@ Data Analyst Projects Portfolio
 **Conclusions and Recommendations:
 
 
-# [Project: ] - Using Minitab 18, jmp, and Excel.  
+# [Project: ] - Using Minitab 18, jmp, Python, and Excel.
 
 **DESCRIPTION:
 
@@ -295,7 +295,7 @@ Data Analyst Projects Portfolio
 **Conclusions and Recommendations:
 
 
-# [Project: ] - Using Minitab 18, jmp, and Excel.  
+# [Project: ] - Using Minitab 18, jmp, Python, and Excel.
 
 **DESCRIPTION:
 
@@ -308,7 +308,7 @@ Data Analyst Projects Portfolio
 **Conclusions and Recommendations:
 
 
-# [Project: ] - Using Minitab 18, jmp, and Excel.  
+# [Project: ] - Using Minitab 18, jmp, Python, and Excel.
 
 **DESCRIPTION:
 
@@ -321,7 +321,7 @@ Data Analyst Projects Portfolio
 **Conclusions and Recommendations:
 
 
-# [Project: ] - Using Minitab 18, jmp, and Excel.  
+# [Project: ] - Using Minitab 18, jmp, Python, and Excel.
 
 **DESCRIPTION:
 
@@ -334,7 +334,7 @@ Data Analyst Projects Portfolio
 **Conclusions and Recommendations:
 
 
-# [Project: ] - Using Minitab 18, jmp, and Excel.  
+# [Project: ] - Using Minitab 18, jmp, Python, and Excel.
 
 **DESCRIPTION:
 
@@ -347,7 +347,7 @@ Data Analyst Projects Portfolio
 **Conclusions and Recommendations:
 
 
-# [Project: ] - Using Minitab 18, jmp, and Excel.  
+# [Project: ] - Using Minitab 18, jmp, Python, and Excel.
 
 **DESCRIPTION:
 
@@ -360,7 +360,7 @@ Data Analyst Projects Portfolio
 **Conclusions and Recommendations:
 
 
-# [Project: ] - Using Minitab 18, jmp, and Excel.  
+# [Project: ] - Using Minitab 18, jmp, Python, and Excel.
 
 **DESCRIPTION:
 
@@ -373,7 +373,7 @@ Data Analyst Projects Portfolio
 **Conclusions and Recommendations:
 
 
-# [Project: ] - Using Minitab 18, jmp, and Excel.  
+# [Project: ] - Using Minitab 18, jmp, Python, and Excel.
 
 **DESCRIPTION:
 
@@ -386,7 +386,7 @@ Data Analyst Projects Portfolio
 **Conclusions and Recommendations:
 
 
-# [Project: ] - Using Minitab 18, jmp, and Excel.  
+# [Project: ] - Using Minitab 18, jmp, Python, and Excel.
 
 **DESCRIPTION:
 
