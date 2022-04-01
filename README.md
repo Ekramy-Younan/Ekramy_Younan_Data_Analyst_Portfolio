@@ -1,6 +1,9 @@
 # Ekramy_Younan_Data_Analyst_Portfolio
 Data Analyst Projects Portfolio
 
+# [VanArsdel Sales Overview - Using Power Bi Project]
+![image](https://user-images.githubusercontent.com/76533174/161247814-7f6804f0-83d0-4810-adc8-b2ce70dcb094.png)
+
 
 # [Project: Potential Locations for Retirement Housing Community] - Using Minitab 18, jmp, Python, and Excel.  
 
