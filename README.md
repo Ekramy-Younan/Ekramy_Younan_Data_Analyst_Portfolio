@@ -1,7 +1,7 @@
 # Ekramy_Younan_Data_Analyst_Portfolio
 Data Analyst Projects Portfolio
 
-# [VanArsdel Sales Overview - Using Power Bi Project]
+# [Project: VanArsdel Sales Overview - Using Power Bi]
 ![image](https://user-images.githubusercontent.com/76533174/161247814-7f6804f0-83d0-4810-adc8-b2ce70dcb094.png)
 
 
