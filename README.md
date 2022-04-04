@@ -2,6 +2,8 @@
 Data Analyst Projects Portfolio
 
 # [Project: VanArsdel Sales Overview - Using Power Bi]
+![image](https://user-images.githubusercontent.com/76533174/161526968-1a0092ea-cc13-424e-8333-f49a728c6dd8.png)
+
 ![image](https://user-images.githubusercontent.com/76533174/161247814-7f6804f0-83d0-4810-adc8-b2ce70dcb094.png)
 
 ![image](https://user-images.githubusercontent.com/76533174/161377683-b41bc54d-0e3a-4e41-8c84-6ce4a736d42d.png)
