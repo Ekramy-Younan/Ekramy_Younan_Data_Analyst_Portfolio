@@ -13,25 +13,26 @@ Data Analyst Projects Portfolio
   * 3, Consult your company IT before you download and install this gateway. https://powerbi.microsoft.com/en-us/gateway/
 
 **Overview
-  * •	Various key features of the Power BI service. 
-  * •	How to author reports using Power BI Desktop and create operational dashboards via the Power BI Service.
+  * Various key features of the Power BI service. 
+  * How to author reports using Power BI Desktop and create operational dashboards via the Power BI Service.
 
 **Data Set
-  * •	The dataset is a sales and market share analysis. 
-  * •	This type of analysis is very common for the office of a Chief Marketing Officer (CMO). 
-  * •	Unlike the office of the Chief Financial Officer (CFO), a CMO is focused not only on company’s performance internally (how well do our products sell) but also externally (how well do we do against the competing products). 
-  * •	The company, VanArsdel, manufactures expensive electronic products that could be used for fun as well as work and it sells them directly to consumers nationwide as well as several other countries. 
-  * •	VanArsdel and its competitors have retained a 3rd party marketing company to collect and anonymize industry sales so that all participants can benchmark themselves.
+  * The dataset is a sales and market share analysis. 
+  * This type of analysis is very common for the office of a Chief Marketing Officer (CMO). 
+  * Unlike the office of the Chief Financial Officer (CFO), a CMO is focused not only on company’s performance internally (how well do our products sell) but also externally (how well do we do against the competing products). 
+  * The company, VanArsdel, manufactures expensive electronic products that could be used for fun as well as work and it sells them directly to consumers nationwide as well as several other countries. 
+  * VanArsdel and its competitors have retained a 3rd party marketing company to collect and anonymize industry sales so that all participants can benchmark themselves.
 
 **Description
-* Power BI – how Microsoft’s Power BI service can help bring your data to life with rich visualizations and analytic capabilities in this project, we will work through hands-on labs to explore the components of Power BI, from data ingestion and modelling, report creation, and publishing. 
+  
+  * Power BI – how Microsoft’s Power BI service can help bring your data to life with rich visualizations and analytic capabilities in this project, we will work through hands-on labs to explore the components of Power BI, from data ingestion and modelling, report creation, and publishing. 
 
 **Outline
 
   1.	Introduction: 
-  •	What is Power BI 
-  •	What can we do with it, and make sure is setup. 
-  •	Then we’ll go into the desktop and web portal to navigating around the menus and how to get started with a visualization!
+      *	What is Power BI 
+      *	What can we do with it, and make sure is setup. 
+      *	Then we’ll go into the desktop and web portal to navigating around the menus and how to get started with a visualization!
   2.	Data Ingestion: 
   •	Power BI Desktop Query Editor used to ingest data from various data sources. 
   •	Power BI supports over 60 native data connectors! 
