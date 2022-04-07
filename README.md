@@ -29,10 +29,10 @@ Data Analyst Projects Portfolio
 
 **Outline
 
-  1.	Introduction: 
-      *	What is Power BI 
-      *	What can we do with it, and make sure is setup. 
-      *	Then we’ll go into the desktop and web portal to navigating around the menus and how to get started with a visualization!
+  * 1.	Introduction: 
+    *	What is Power BI 
+    *	What can we do with it, and make sure is setup. 
+    *	Then we’ll go into the desktop and web portal to navigating around the menus and how to get started with a visualization!
   2.	Data Ingestion: 
   •	Power BI Desktop Query Editor used to ingest data from various data sources. 
   •	Power BI supports over 60 native data connectors! 
