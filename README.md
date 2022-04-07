@@ -29,7 +29,7 @@ Data Analyst Projects Portfolio
 
 **Outline
 
-  * 1.	Introduction: 
+  * 1.Introduction: 
     *	What is Power BI 
     *	What can we do with it, and make sure is setup. 
     *	Then we’ll go into the desktop and web portal to navigating around the menus and how to get started with a visualization!
