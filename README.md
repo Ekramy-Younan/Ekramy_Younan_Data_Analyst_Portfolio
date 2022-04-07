@@ -29,39 +29,44 @@ Data Analyst Projects Portfolio
 
 **Outline
 
-  * 1.Introduction: 
+  * 1. Introduction: 
     *	What is Power BI 
     *	What can we do with it, and make sure is setup. 
     *	Then we’ll go into the desktop and web portal to navigating around the menus and how to get started with a visualization!
-  2.	Data Ingestion: 
-  •	Power BI Desktop Query Editor used to ingest data from various data sources. 
-  •	Power BI supports over 60 native data connectors! 
-  •	We won’t use them all, but we can ingest data from multiple disparate sources and combine them into a single data model.
-  3.	Data Shaping and Modelling: 
-  •	Query Editor used to perform data transformations (called “shaping”) on the data. 
-  •	Once loaded into the data model, 
-    additional calculations can be added, 
-    and the attribute names, 
-    relationships and structure of the model can be optimized for ease of use.
-  4.	Report Design and Creation: 
-  •	Power BI Desktop used to create visualizations and reports based on our data model. 
-  •	Power BI natively supports 30+ chart types, 
-  •	Power BI also has a gallery of 60+ more custom visualizations created by the Power BI developer community. 
-  •	How to configure and format visualizations and how to get your visualizations to interact with each other for deeper analytic insights.
-  5.	Publishing Reports and Creating Dashboards: 
-  •	Once the Report is created, it is time to publish our content to the Power BI service. 
-  •	Power BI is a SaaS model, so reports can be published and viewed by members of your organization. 
-  •	We will create Dashboards from our Report, 
-  •	Power BI’s Q&A functionality allows user to ask natural language questions of their data. 
-  •	How to schedule data refreshes and integration with Microsoft’s personal digital assistant Cortana.
-  6.	Sharing and Collaboration: 
-  •	The real power of Power BI is being able to share the data, reports, and insights you have gained with others in your organization. 
-  •	The various ways to share your content and how security is configured to allow only authorized users to see the data they are authorized to see.
-  7.	Advanced Analytics and Use your own data: 
-  •	How to embed advanced analytics into your Power BI dashboards. 
-  •	Power BI supports running R scripts for analytics and creating visualizations. 
-  •	If you brought your own data to explore, we will also use this time to explore how you can use Power BI with your own dataset to gain actionable insights.
-  8.	Governance and Administration in Power BI (For IT/Tech only)
+  
+  * 2. Data Ingestion: 
+    *	Power BI Desktop Query Editor used to ingest data from various data sources. 
+    *	Power BI supports over 60 native data connectors! 
+    *	We won’t use them all, but we can ingest data from multiple disparate sources and combine them into a single data model.
+  * 3. Data Shaping and Modelling: 
+    *	Query Editor used to perform data transformations (called “shaping”) on the data. 
+    *	Once loaded into the data model, 
+        *	additional calculations can be added, 
+        *	and the attribute names, 
+        *	relationships and structure of the model can be optimized for ease of use.
+  * 4. Report Design and Creation: 
+    *	Power BI Desktop used to create visualizations and reports based on our data model. 
+    *	Power BI natively supports 30+ chart types, 
+    *	Power BI also has a gallery of 60+ more custom visualizations created by the Power BI developer community. 
+    *	How to configure and format visualizations and how to get your visualizations to interact with each other for deeper analytic insights.
+ 
+  * 5. Publishing Reports and Creating Dashboards: 
+    *	Once the Report is created, it is time to publish our content to the Power BI service. 
+    *	Power BI is a SaaS model, so reports can be published and viewed by members of your organization. 
+    *	We will create Dashboards from our Report, 
+    *	Power BI’s Q&A functionality allows user to ask natural language questions of their data. 
+    *	How to schedule data refreshes and integration with Microsoft’s personal digital assistant Cortana.
+  
+  * 6. Sharing and Collaboration: 
+    *	The real power of Power BI is being able to share the data, reports, and insights you have gained with others in your organization. 
+    *	The various ways to share your content and how security is configured to allow only authorized users to see the data they are authorized to see.
+  
+  * 7. Advanced Analytics and Use your own data: 
+    *	How to embed advanced analytics into your Power BI dashboards. 
+    *	Power BI supports running R scripts for analytics and creating visualizations. 
+    *	If you brought your own data to explore, we will also use this time to explore how you can use Power BI with your own dataset to gain actionable insights.
+  
+  * 8. Governance and Administration in Power BI (For IT/Tech only)
 
 **Hands-on Project
 
