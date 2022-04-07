@@ -29,16 +29,16 @@ Data Analyst Projects Portfolio
 
 **Outline
 
-  * 1. Introduction: 
+  * 1.Introduction: 
     *	What is Power BI 
     *	What can we do with it, and make sure is setup. 
     *	Then we’ll go into the desktop and web portal to navigating around the menus and how to get started with a visualization!
   
-  * 2. Data Ingestion: 
+  * 2.Data Ingestion: 
     *	Power BI Desktop Query Editor used to ingest data from various data sources. 
     *	Power BI supports over 60 native data connectors! 
     *	We won’t use them all, but we can ingest data from multiple disparate sources and combine them into a single data model.
-  * 3. Data Shaping and Modelling: 
+  * 3.Data Shaping and Modelling: 
     *	Query Editor used to perform data transformations (called “shaping”) on the data. 
     *	Once loaded into the data model, 
         *	additional calculations can be added, 
