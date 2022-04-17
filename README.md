@@ -96,6 +96,32 @@ Data Analyst Projects Portfolio
 * Power BI course https://www.edx.org/course/analyzing-visualizing-data-power-bi-microsoft-dat207x-0
 
 
+# [Project: Interactive Dashboard using SQLite and Python Putting it into a Datapane report]
+**Introduction: 
+* One of the most important skills for data analysis is interacting with databases.
+Most organizations store their business-critical data in a relational database like Postgres or MySQL, and you’ll need to know Structured Query Language (SQL) to access or update the data stored there.
+* SQL is an incredible language — it was invented in the 1970s and most new database projects e.g. Redshift, Snowflake, CockroachDB still choose it as their foundation because it is powerful and relatively simple (at least to start).
+
+**The dataset
+* We’ll use a well-known open-source dataset called Chinook, which stores data about purchases at a small music shop over several years. 
+This data is stored as a SQLite database inside a single file, so we can query it directly from our local Python environment without access credentials.
+Here’s a quick table showing the database schema:
+* ![image](https://user-images.githubusercontent.com/76533174/163703836-62f4aa56-a036-4451-9ed5-5a11da205621.png)
+
+* ![image](https://user-images.githubusercontent.com/76533174/163703858-01b8e696-5a46-4430-8e41-a6dcd678f13a.png)
+* ![image](https://user-images.githubusercontent.com/76533174/163703873-49d88883-e4f1-4d78-8580-d58dd9bc8baa.png)
+* ![image](https://user-images.githubusercontent.com/76533174/163703879-cb24f113-905f-4142-aef5-4c2eb06d4816.png)
+* ![image](https://user-images.githubusercontent.com/76533174/163703884-995b2ffe-9378-4072-89a3-ebb20c04b4a1.png)
+* ![image](https://user-images.githubusercontent.com/76533174/163703889-258ea0a3-dc5d-4b12-88e2-14f3a3c6cca9.png)
+* ![image](https://user-images.githubusercontent.com/76533174/163703896-5be11408-01cf-4777-b646-085b82851826.png)
+* ![image](https://user-images.githubusercontent.com/76533174/163703899-6c06696e-40a5-465d-b232-fc45884c7714.png)
+
+**References: 
+* https://github.com/johnmicahreid/datascienceexamples
+* https://docs.python.org/3/library/sqlite3.html
+* https://datapane.com/
+* https://anaconda.org/conda-forge/pathlib
+
 # [Project: Potential Locations for Retirement Housing Community] - Using Minitab 18, jmp, Python, and Excel.  
 
 **DESCRIPTION
