@@ -95,6 +95,36 @@ Data Analyst Projects Portfolio
 * Feature requests https://support.powerbi.com/forums/265200-power-bi 
 * Power BI course https://www.edx.org/course/analyzing-visualizing-data-power-bi-microsoft-dat207x-0
 
+# [Project: Data-Analysis-Sales-Insights - using Power BI and Python]
+
+**Data Preparation using Python:
+* Import libraries
+* Get the Data
+* Showing All the Tables
+* Check null values
+* Sales_amout below 1
+* USD to INR conversation
+* Adding column product_price
+* Adding column original_price
+* original_price refers to product price without profit
+* Adding column profit
+* Adding Column total_profit
+* Adding column total_cost
+* verifying values
+* Save the file for Power BI
+* Load the Data
+
+**Data Visualization
+* ![image](https://user-images.githubusercontent.com/76533174/164162462-821983a7-21f1-4e6d-aeca-353c53dad39f.png)
+
+**Data Analysis-Sales Insights Using Power Bi   
+* ![image](https://user-images.githubusercontent.com/76533174/164162336-23c4fa57-957b-4a35-8e20-fa8490d1c26d.png)
+* ![image](https://user-images.githubusercontent.com/76533174/164162370-15fe81ea-0351-4b22-9a5b-dae435320f9f.png)
+* ![image](https://user-images.githubusercontent.com/76533174/164162393-3f5126c8-a2c1-4c67-a3b3-2eb3d2b81084.png)
+
+**References: 
+* https://github.com/tuhinhussain1995/PROJECT-Data-Analysis-Sales-Insights-PowerBI
+
 
 # [Project: Interactive Dashboard using SQLite and Python Putting it into a Datapane report]
 **Introduction: 
