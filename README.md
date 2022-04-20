@@ -118,9 +118,14 @@ Data Analyst Projects Portfolio
 * ![image](https://user-images.githubusercontent.com/76533174/164162462-821983a7-21f1-4e6d-aeca-353c53dad39f.png)
 
 **Data Analysis-Sales Insights Using Power Bi   
-* ![image](https://user-images.githubusercontent.com/76533174/164162336-23c4fa57-957b-4a35-8e20-fa8490d1c26d.png)
-* ![image](https://user-images.githubusercontent.com/76533174/164162370-15fe81ea-0351-4b22-9a5b-dae435320f9f.png)
-* ![image](https://user-images.githubusercontent.com/76533174/164162393-3f5126c8-a2c1-4c67-a3b3-2eb3d2b81084.png)
+* Power BI User Interface: (Whole Years Report)
+* ![image](https://user-images.githubusercontent.com/76533174/164283980-481cb594-031e-49d3-8a3c-e7746399f634.png)
+
+* Power BI User Interface: (Specific Year 2019 Report)
+* ![image](https://user-images.githubusercontent.com/76533174/164284088-3cf31ba1-a836-4619-bde9-b53d190cae18.png)
+
+* Power BI User Interface: (Specific Month Sep 19 Report)
+* ![image](https://user-images.githubusercontent.com/76533174/164284149-1efaa1e3-7e5d-4385-b898-a97926b66395.png)
 
 **References: 
 * https://github.com/tuhinhussain1995/PROJECT-Data-Analysis-Sales-Insights-PowerBI
